@@ -1,4 +1,6 @@
 This Python script use Tkinter.
+The GUI is in french.
+
 It allow the user to select a Newick phylogenetic tree 
 and select a liste (Excel format) of information to add to tip of the tree.
 And generate a new Newick tree file with the infomation.
